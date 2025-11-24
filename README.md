@@ -15,7 +15,7 @@
 Analyste SOC junior recherchant à contribuer à la détection proactive d'incidents et à la réponse 
 aux menaces dans un environnement opérationnel. 
 
-> **Recherche activement :** Poste d'analyste SOC 
+> ⚡ **Recherche activement :** Poste d'analyste SOC 
 
 
 
@@ -24,7 +24,7 @@ aux menaces dans un environnement opérationnel.
 
 ---
 
-## 💼 Domaines d'Expertise
+## 💼 Compétences
 
 ### 🔍 Détection & Surveillance
 - Configuration et exploitation de SIEM (Splunk) pour la corrélation de logs multi-sources
