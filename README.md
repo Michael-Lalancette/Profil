@@ -4,8 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://www.linkedin.com/in/michael-lalancette/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Michael.Lalancette@proton.me)
 
-> ⚠️ Portfolio en construction — Nouveaux projets à venir
-
+> ⚠️ Portfolio en construction - projets à venir!
 
 
 
