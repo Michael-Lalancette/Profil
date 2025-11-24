@@ -26,25 +26,25 @@ aux menaces dans un environnement opérationnel.
 
 ## 💼 Compétences
 
-### 🔍 Détection & Surveillance
+### **Détection & Surveillance**
 - Configuration et exploitation de SIEM (Splunk) pour la corrélation de logs multi-sources
 - Création de règles de détection (SPL) et d'alertes automatisées
 - Déploiement de honeypots et d'infrastructures de détection
 - Analyse comportementale et identification d'anomalies
 
-### 🕵️ Investigation & Forensique
+### **Investigation & Forensique**
 - Analyse PCAP approfondie et reconstruction de sessions malveillantes
 - Extraction d'indicateurs de compromission (IoC)
 - Investigation d'e-mails de phishing (en-têtes, liens, pièces jointes)
 - Analyse de logs Windows/IIS et corrélation d'événements
 
-### 🛡️ Réponse aux Incidents
+### **Réponse aux Incidents**
 - Triage d'alertes et priorisation par criticité
 - Mapping MITRE ATT&CK des techniques adversaires (TTPs)
 - Documentation technique et rédaction de rapports d'incident
 - Threat hunting débutant et recherche d'IoC
 
-### ⚙️ Infrastructure & Outils
+### **Infrastructure & Outils**
 - Administration système (Linux, Windows, Active Directory)
 - Virtualisation et environnements isolés (VMware, Docker)
 - Sécurité réseau (pfSense, segmentation)
