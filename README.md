@@ -12,10 +12,7 @@
 
 ## 🎯 Objectif Professionnel
 
-Analyste SOC junior recherchant à contribuer à la détection proactive d'incidents et à la réponse 
-aux menaces dans un environnement opérationnel. 
-
-> ⚡ **Recherche activement :** Poste d'analyste SOC 
+Analyste SOC junior spécialisé en détection, investigation et réponse aux incidents, cherchant à contribuer à un environnement opérationnel en renforçant visibilité et détection.
 
 
 
@@ -60,7 +57,7 @@ aux menaces dans un environnement opérationnel.
 ## 💡 Outils 
 
 **Détection & Surveillance**  
-Splunk (SIEM) • Suricata (IDS/IPS) • MITRE ATT&CK
+Splunk (SIEM) • Suricata (IDS/IPS) • MITRE ATT&CK 
 
 **Analyse & Investigation**  
 Wireshark • VirusTotal • AbuseIPDB • Shodan • Cyberchef
@@ -69,7 +66,7 @@ Wireshark • VirusTotal • AbuseIPDB • Shodan • Cyberchef
 Linux • Windows • Active Directory • VMware • Docker • pfSense • AWS
 
 **Automatisation**  
-Python • Bash • PowerShell • Git/GitHub
+Python • Bash • PowerShell
 
 
 
@@ -84,12 +81,15 @@ Python • Bash • PowerShell • Git/GitHub
 👉 **[Documentation complète du projet](https://github.com/Michael-Lalancette/SOC-Phishing)**
 
 * Analyse forensique d'un e-mail de phishing :
-   * Analyse des en-têtes (sender IP, SPF/DKIM/DMARC, Received hops)
-   * Vérification de réputation des domaines
-   * Extraction et décodage des liens malveillants
-   * Traitement et hachage des pièces jointes (SHA256 / MD5)
-   * Identification des tactiques de l'attaquant via MITRE ATT&CK
-   * Production d'un rapport d'IoCs et recommandations préventives
+   * Analyse des en-têtes (sender IP, SPF/DKIM/DMARC, Received hops)  
+   * Vérification de réputation des domaines (VirusTotal, OTX, AbuseIPDB)  
+   * Extraction et décodage des liens malveillants  
+   * Analyse pièces jointes (hashing - SHA256/MD5)  
+   * Cartographie MITRE ATT&CK (TTPs)  
+   * Production d'un rapport d'IoCs et recommandations préventives  
+
+
+
 
 ---
 
@@ -98,13 +98,15 @@ Python • Bash • PowerShell • Git/GitHub
 👉 **[Documentation complète du projet](https://github.com/Michael-Lalancette/SOC-Splunk-Lab)**
 
 * Conception et déploiement d'un SOC miniature dans un environnement virtuel.
-   * Mise en place d'un SIEM (Splunk Enterprise) et d'un honeypot IIS avec leurres
-   * Collecte et indexation des logs via Universal Forwarder
-   * Création de règles SPL pour la détection en temps réel
-   * Déclenchement d'alertes automatiques (Triggered Alerts, e-mail via Mailtrap, CSV lookup)
-   * Développement d'un dashboard interactif Splunk pour visualiser les accès au honeypot
+   * Mise en place d'un SIEM (Splunk Enterprise) et d'un honeypot IIS avec leurres    
+   * Collecte et indexation des logs via Universal Forwarder  
+   * Création de règles SPL pour la détection en temps réel  
+   * Déclenchement d'alertes automatiques (Triggered Alerts, e-mail via Mailtrap, CSV lookup)  
+   * Développement d'un dashboard interactif Splunk pour visualiser les accès au honeypot  
    * Simulation adversaire (reconnaissance → accès → tentative d'exfiltration)
-   * Validation du pipeline SOC complet (collecte → détection → alerte → triage → visualisation)
+> Validation du pipeline SOC complet (collecte → détection → alerte → triage → visualisation)
+
+
 
 ---
 
@@ -114,9 +116,9 @@ Python • Bash • PowerShell • Git/GitHub
 
 
 * Investigation réseau pour la détection d'anomalies et la documentation d'incidents.
-   * Identification de trafic suspect et d'activités malveillantes
-   * Corrélation et extraction d'IOCs
-   * Production de rapports techniques d'investigation
+   * Identification de trafic suspect et d'activités malveillantes  
+   * Corrélation et extraction d'IOCs  
+   * Production de rapports techniques d'investigation  
 
 
 
@@ -129,7 +131,10 @@ Python • Bash • PowerShell • Git/GitHub
 [![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)]()  
 👉 **[Documentation complète du projet](https://github.com/Michael-Lalancette/MDE-EDR-Lab)**  
  
-* Déploiement EDR enterprise avec simulation de 5 attaques MITRE ATT&CK, threat hunting KQL et intégration SIEM.
+* Déploiement EDR enterprise  
+* Simulation d'attaques MITRE ATT&CK  
+* Threat hunting KQL  
+* Intégration SIEM + alertes  
 
 
 
