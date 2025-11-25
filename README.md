@@ -57,7 +57,7 @@ aux menaces dans un environnement opérationnel.
 
 ---
 
-## 🧰 Outils 
+## 💡 Outils 
 
 **Détection & Surveillance**  
 Splunk (SIEM) • Suricata (IDS/IPS) • MITRE ATT&CK
