@@ -12,9 +12,21 @@
 
 ## 🎯 Objectif Professionnel
 
-Analyste SOC junior spécialisé en détection, investigation et réponse aux incidents, cherchant à contribuer à un environnement opérationnel en renforçant visibilité et détection.
+Analyste en cybersécurité spécialisé en détection de menaces et investigation d'incidents.  
+Actuellement en formation pour élargir mon expertise vers la sécurité du cloud Azure (SC-900, AZ-500/SC-200), je cherche à contribuer à la protection d'infrastructures cloud et hybrides en combinant surveillance SOC et sécurité cloud.  
 
 
+---
+
+## 📜 Formations & Certifications
+
+* **AEC Cybersécurité : Protection et Défense** | *Collège Montmorency* | *2023–2024*  
+* **TryHackMe - SOC niveau 1** | *[TryHackMe](https://tryhackme.com/dashboard)* | *Octobre 2025*  
+
+
+**En cours :** 
+- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | *Microsoft* | *Décembre 2025*  
+- Prochaine étape : **AZ-500** (Azure Security Engineer) ou **SC-200** (Security Operations Analyst)  
 
 
 
@@ -51,6 +63,13 @@ Analyste SOC junior spécialisé en détection, investigation et réponse aux in
 
 
 
+### **Sécurité Cloud (formation continue)**
+- Fondamentaux de sécurité Microsoft Azure
+- Principes de sécurité cloud : identité, accès, conformité
+- Architecture de sécurité Azure
+
+
+
 
 ---
 
@@ -63,7 +82,7 @@ Splunk (SIEM) • Suricata (IDS/IPS) • MITRE ATT&CK
 Wireshark • VirusTotal • AbuseIPDB • Shodan • Cyberchef
 
 **Infrastructure & Systèmes**  
-Linux • Windows • Active Directory • VMware • Docker • pfSense • AWS
+Linux • Windows • Active Directory • VMware • Docker • pfSense • AWS • Azure (en cours)
 
 **Automatisation**  
 Python • Bash • PowerShell
@@ -127,24 +146,13 @@ Python • Bash • PowerShell
 
 ## 🚧 Projet en construction
 
-#### **EDR Lab - Microsoft Defender** - *Novembre 2025*
-[![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow)]()  
-👉 **[Documentation complète du projet](https://github.com/Michael-Lalancette/MDE-EDR-Lab)**  
- 
-* Déploiement EDR enterprise  
-* Simulation d'attaques MITRE ATT&CK  
-* Threat hunting KQL  
-* Intégration SIEM + alertes  
 
+#### **Azure Security Lab** - *2026*
+[![Statut](https://img.shields.io/badge/Statut-Planifi%C3%A9-lightgrey)]()
 
-
-
----
-
-## 📜 Formations & Certifications
-
-* **TryHackMe - SOC niveau 1** | *[TryHackMe](https://tryhackme.com/dashboard)* | *Octobre 2025*
-* **AEC Cybersécurité : Protection et Défense** | *Collège Montmorency* | *2023–2024*
-
+- Déploiement d'une infrastructure Azure sécurisée
+- Configuration de Microsoft Defender for Cloud
+- Implémentation de politiques de sécurité et conformité
+- Intégration avec Microsoft Sentinel (SIEM cloud)
 
 
