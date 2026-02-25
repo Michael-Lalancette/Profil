@@ -25,8 +25,8 @@ Actuellement en formation pour élargir mon expertise vers la sécurité du clou
 
 
 **En cours :** 
-- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | *Microsoft* | *Janvier 2026*  
-- Prochaine étape : **AZ-500** (Azure Security Engineer) ou **SC-200** (Security Operations Analyst)  
+- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | *Microsoft* | *Février 2026*  
+- Prochaine étape : **SC-200** (Security Operations Analyst) - **AZ-500** (Azure Security Engineer)
 
 
 
