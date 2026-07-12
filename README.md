@@ -25,7 +25,7 @@ Actuellement en formation pour élargir mon expertise vers la sécurité du clou
 
 
 **En cours :** 
-- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | *Microsoft* | *Février 2026*  
+- **SC-900: Microsoft Security, Compliance, and Identity Fundamentals** | *Microsoft* | *Q2 2026*  
 - Prochaine étape : **SC-200** (Security Operations Analyst) - **AZ-500** (Azure Security Engineer)
 
 
@@ -147,7 +147,7 @@ Python • Bash • PowerShell
 ## 🚧 Projet en construction
 
 
-#### **Azure Security Lab** - *2026*
+#### **Azure Security Lab** - *Q3 2026*
 [![Statut](https://img.shields.io/badge/Statut-Planifi%C3%A9-lightgrey)]()
 
 - Déploiement d'une infrastructure Azure sécurisée
